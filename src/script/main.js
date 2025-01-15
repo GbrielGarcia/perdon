@@ -1,9 +1,9 @@
 const alternatives = [
     { text: "", images: "/images/cat-01.gif" },
-    { text: "Mala como Malvavisco", images: "/images/cat-02.gif" },
-    { text: "Piénsalo de nuevo", images: "/images/cat-03.gif" },
-    { text: "Vamos, atrévete a decir que sí", images: "/images/cat-04.gif" },
-    { text: "Que el miedo no te detenga", images: "/images/cat-05.gif" }
+    { text: "Mala como Malvavisco", images: "public/images/cat-02.gif" },
+    { text: "Piénsalo de nuevo", images: "public/images/cat-03.gif" },
+    { text: "Vamos, atrévete a decir que sí", images: "public/images/cat-04.gif" },
+    { text: "Que el miedo no te detenga", images: "public/images/cat-05.gif" }
 ];
 
 const ohyes = { text: "Sabía que aceptarías", images: "/images/cat-yes.gif" };
